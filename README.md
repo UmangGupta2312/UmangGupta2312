@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Umang Gupta 👋
 
-<!--
-**UmangGupta2312/UmangGupta2312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Introduction
 
-Here are some ideas to get you started:
+I am a student interested in *Business, Data Analytics and Financial Anayst *.
+I am passionate about learning new things, solving real-world problems, and developing practical skills through projects and hands-on experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Education
+
+* *Degree/Course:* Bachelor of commerce
+* *College/University:* Sarguja university Jashpur
+* *Year:* 2025
+
+##  Skills
+
+* Python
+* Microsoft Excel
+
+##  Certifications
+
+* International Business and Finance — Linkedin learning
+
+##  Interests
+
+* Data Analytics
+* Business Analytics
+* Technology & Innovation
+
+## 🔗 Professional Links
+
+* *LinkedIn:*https://www.linkedin.com/in/umang-gupta-921495416?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+
