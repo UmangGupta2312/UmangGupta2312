@@ -1,4 +1,4 @@
-Hi, I'm Umang Gupta 👋
+**Hi, I'm Umang Gupta**
 
 ##  Introduction
 
